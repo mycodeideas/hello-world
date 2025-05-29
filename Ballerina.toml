@@ -1,0 +1,4 @@
+[package]
+org = "integrationdemos"
+name = "hello_world_api"
+version = "0.1.0"
